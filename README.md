@@ -1,7 +1,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello, World!</h1></summary>
-    I have some experience with Angular and now I'm learning about test tools 
+ 
 </div>
 <div align="center">
  <div style="display: inline_block"> <br>
@@ -19,5 +19,5 @@
   <img height="40" width="auto" src="https://i.pinimg.com/474x/2c/85/cd/2c85cd4605186689cd9087b1f195ff1e.jpg"/>
   <img height="40" width="auto" src="https://whiplash.net/imagens_promo_22/kiss_2023.jpg?nocache"/>
   <img height="40" width="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0SvdaqlhKfXIytO9D7VJGX5NThjOXy-YTFA&usqp=CAU"/>
-  <img height="25" width="auto" src="https://i1.sndcdn.com/artworks-u5So0QqvWC5Tgmjh-Ivd6Uw-t500x500.jpg"/>
+  <img height="40" width="auto" src="https://i1.sndcdn.com/artworks-u5So0QqvWC5Tgmjh-Ivd6Uw-t500x500.jpg"/>
 </div>        
