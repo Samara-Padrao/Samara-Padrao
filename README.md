@@ -6,8 +6,8 @@
 <div align="center">
  <div style="display: inline_block"> <br>
   <a href="https://github.com/Samara-Padrao">
-  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=SPadrao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPadrao&layout=compact&langs_count=7&theme=radical"/>
+  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=Samara-Padrao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samara-Padrao&layout=compact&langs_count=7&theme=radical"/>
 </div>
    <br></a>
 <div align="center">
