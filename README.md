@@ -6,11 +6,41 @@
 ## Tech Stack
 ```typescript
 const skills = {
-  frontend: ['React', 'TypeScript', 'Tailwind CSS', 'JavaScript(ES6+),', 'HTML', 'CSS', 'Liquid'],
-  styling: ['Tailwind CSS', 'Responsive Design', 'Componentização', 'Design Systems', 'Animações com Framer-Motion', 'React Three Fiber']
-  backend_&_APIs: ['JavaScript (ES6+),', 'REST APIs', 'Axios', 'MySQL'],
-  tools: ['Git', 'GitHub', 'VS Code', 'AWS (Dynamo, Amplify, Lambda, S3)', 'RD Station', 'Shopify']
+  frontend: [
+    'React',
+    'TypeScript',
+    'JavaScript (ES6+)',
+    'HTML',
+    'CSS',
+    'Liquid'
+  ],
+
+  styling: [
+    'Tailwind CSS',
+    'Responsive Design',
+    'Componentização',
+    'Design Systems',
+    'Animações com Framer Motion',
+    'React Three Fiber'
+  ],
+
+  backendAndAPIs: [
+    'JavaScript (ES6+)',
+    'REST APIs',
+    'Axios',
+    'MySQL'
+  ],
+
+  tools: [
+    'Git',
+    'GitHub',
+    'VS Code',
+    'AWS (DynamoDB, Amplify, Lambda, S3)',
+    'RD Station',
+    'Shopify'
+  ]
 }
+
 ```
 
 <div align="center">
