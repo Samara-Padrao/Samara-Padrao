@@ -46,10 +46,10 @@ const skills = {
 
 ##  Sobre mim
 
--  Foco em **Front-end Development** com React e TypeScript
--  Especialidade em criar UIs modernas com Tailwind CSS
--  Sempre aprendendo e explorando novas tecnologias
--  Adoro transformar designs em código limpo e funcional
+- Focus on **Front-end Development** with React and TypeScript
+- Specializes in creating modern UIs with Tailwind CSS
+- Always learning and exploring new technologies
+- I love transforming designs into clean and functional code
 
 ## Coding Playlist
 
