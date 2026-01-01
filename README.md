@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>Hello, World! 👋</h1>
-  <p>Desenvolvedora Front-end apaixonada por criar interfaces intuitivas e experiências incríveis. Programação veio naturalmente pra mim, e hoje me especializo em <strong>React, TypeScript e Tailwind CSS</strong>.</p>
+  <h1>Hello, World! 💜</h1>
+ <p>Front-end developer passionate about creating intuitive interfaces and amazing experiences. Programming came naturally to me, and today I specialize in React, TypeScript, and Tailwind CSS</strong>.</p>
 </div>
 
-## 🚀 Tech Stack
+## Tech Stack
 ```typescript
 const skills = {
   frontend: ['React', 'TypeScript', 'Tailwind CSS', 'JavaScript', 'HTML', 'CSS'],
@@ -17,16 +17,16 @@ const skills = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samara-Padrao&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## 💡 Sobre mim
+##  Sobre mim
 
-- 🎨 Foco em **Front-end Development** com React e TypeScript
-- 🎯 Especialidade em criar UIs modernas com Tailwind CSS
-- 🌱 Sempre aprendendo e explorando novas tecnologias
-- 💻 Adoro transformar designs em código limpo e funcional
+-  Foco em **Front-end Development** com React e TypeScript
+-  Especialidade em criar UIs modernas com Tailwind CSS
+-  Sempre aprendendo e explorando novas tecnologias
+-  Adoro transformar designs em código limpo e funcional
 
-## 🎵 Coding Playlist
+## Coding Playlist
 
-<p align="center">Quando estou programando, você me encontra ouvindo:</p>
+<p align="center">When I'm programming, you'll find me listening.:</p>
 
 <div align="center">
   <img height="50" width="auto" src="https://m.media-amazon.com/images/I/61+Ts42XP4L._UF1000,1000_QL80_.jpg" alt="Album Cover"/>
@@ -37,9 +37,6 @@ const skills = {
   <img height="50" width="auto" src="https://i1.sndcdn.com/artworks-u5So0QqvWC5Tgmjh-Ivd6Uw-t500x500.jpg" alt="Album Cover"/>
 </div>
 
-## 📫 Vamos conversar?
-
-<p align="center">Adoraria trocar ideias sobre front-end, projetos open-source ou aquela playlist perfeita pra codar!</p>
 
 ---
 
