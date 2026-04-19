@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello, World! 💜</h1>
- <p>Front-end developer passionate about creating intuitive interfaces and amazing experiences. Programming came naturally to me, and today I specialize in React, TypeScript, and Tailwind CSS</strong>.</p>
+ <p>Front-end developer passionate about creating intuitive interfaces and amazing experiences. Programming came naturally to me, and today I specialize in React, Vue, TypeScript, and Tailwind CSS</strong>.</p>
 </div>
 
 ## Tech Stack
